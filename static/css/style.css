@@ -1,0 +1,285 @@
+.banner{
+    float: left;
+    width: 100%;
+    margin-bottom: 3%;
+}
+
+.banner img{
+    width: 100%;
+}
+.block{
+    float: left;
+    width: 100%;
+    display: flex;
+}
+.admission{
+    width: 100%;
+}
+
+.admission img{
+    width: 65%;
+    margin-left: 10%;
+}
+.mt-block{
+    width: 100%;
+    text-align: center;
+}
+
+.mt-block img{
+    margin-right: 15%; 
+    width:90%;
+    
+}
+.mt-block h1{
+    font-family: "Rubik Doodle Shadow", system-ui;
+    font-weight: 400;
+    color: black;
+      
+}
+
+.gallery{
+    float: left;
+    width: 100%;
+    margin-top: 2%;
+    margin-bottom: 4%;
+}
+
+.text h1{
+    text-align: center;
+    font-family: "Rubik Doodle Shadow", system-ui;
+    font-weight: 400;
+    font-size: 40px ;
+}
+
+.images{
+    width: 100%;
+    height: 60%;
+    display: flex;
+}
+
+.images img{
+    width: 20%;
+}
+
+.volunteer{
+    display: flex;
+    margin-top: 5%;
+}
+
+.hr{
+    float: left;
+    width: 100%;
+
+}
+.hr img{
+    width: 50%;
+    margin-left: 25%;
+    height: 90%;
+} 
+.contact{
+    margin-right: 10%;
+}
+
+.contact h1{
+    font-family: "Rubik Doodle Shadow", system-ui;
+    font-weight: 400;
+    font-size: 45px;
+    margin-bottom: 8%;
+}
+
+.contact p{
+    font-size: 20px;
+}
+
+#cont{
+    margin-left: 55%;
+}
+
+.main{
+    float: left;
+    width: 100%;
+    background-color:rgb(39, 36, 36);
+    padding-top: 5%; 
+    display: flex;
+    /* padding-bottom: 3%; */
+}
+
+.address{
+    width:28%;
+    border-style: solid;
+    color: azure;
+    margin-right: 9%;
+    margin-left: 9%;
+    margin-top: 2%;
+    text-align: start;
+    margin-bottom: 15%;
+    padding: 0% 2% 0% 1%;
+}
+
+.address h1{
+    text-align: center;
+}
+
+
+
+
+.form{
+    width: 38%;
+    border-style: solid;
+    color: azure;
+    margin-top: 2%;
+    font-size: 30px;
+    margin-bottom: 12%;
+    margin-left: 1%; 
+    margin-right: 13%;
+    padding-bottom: 1%;
+    padding-left: 2%;
+    padding-top: 1%;
+
+}
+#name{
+    padding: 3% 5% 3% 5%;
+}
+#email{
+    padding: 3% 5% 3% 5%;
+}
+#phone{
+    padding: 3% 5% 3% 5%;
+}
+#course{
+    padding: 3% 5% 3% 9%;
+}
+
+.contact1
+{
+    width:30%;
+    border-style: solid;
+    color: azure;
+    margin-right: 8%;
+    /* margin-left: 5%; */
+    margin-top: 2%;
+    text-align: start;
+    margin-bottom: 15%;
+    padding: 0% 2% 0% 1%;
+}
+.copy-right{
+    background-color: black;
+    text-align: center;
+    color: azure;
+}  
+
+.img-banner{
+    float: left;
+    width: 100%;
+}
+
+.img-banner img{
+    width: 100%;
+}
+
+.main-div{
+    float: left;
+    width: 350px;
+    height: 150px;
+    padding: 13% 13% 13% 13%;
+    margin-left: 25%;
+    text-align: center;
+}
+
+
+.rv{
+    display: flex;
+    padding-bottom: 20%;
+}
+.rv a{
+    border-style: solid;
+    padding: 10% 10% 10% 10%;
+    color:black ;
+    margin-right: 40%;
+}
+
+.ud{
+    display: flex;
+    padding-bottom: 20%;
+}
+
+.ud a{
+    border-style: solid;
+    padding: 10% 10% 10% 10%;
+    color: black;
+    margin-right: 40%;
+}
+
+.update{
+    text-align: center;
+    margin-top: 5%;
+}
+
+.register{
+    float: left;
+    width: 22%;
+    padding:5% 1% 5% 5%;
+    margin-left: 36%;    
+    /* margin-top: 4%; */
+    border-style: solid;
+
+}
+
+#id{
+    padding: 3% 14% 3% 14%;
+}
+#name{
+    padding: 3% 14% 3% 14%;
+}
+#email{
+    padding: 3% 14% 3% 14%;
+}
+#phone{
+    padding: 3% 14% 3% 14%;
+}
+#rank{
+    padding: 3% 14% 3% 14%;
+}
+#percentage{
+    padding: 3% 14% 3% 14%;
+}
+#course{
+    padding: 3% 14% 3% 14%;
+}
+#address{
+    padding: 3% 14% 3% 14%;
+}
+.form1{
+    text-align: center;
+    margin-top: 5%;
+}
+
+#id1{
+    padding: 4% 9% 4% 9%;
+}
+#field{
+    padding: 4% 9% 4% 9%;
+}
+#value{
+    padding: 4% 9% 4% 9%;
+}
+
+.update1{
+    border-style: solid;
+    margin: 5% 37% 20% 37%;
+    padding: 5% 6% 7% 5%;
+}
+
+.del {
+    text-align: center;
+    margin-top: 5%;
+}
+
+.delete{
+    padding: 4% 14% 5% 6%;
+    margin: 0% 38% 8% 38%;
+    border-style: solid;
+}
+#id3{
+    padding: 4% 10% 4% 10%;
+}
